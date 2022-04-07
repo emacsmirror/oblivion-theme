@@ -90,6 +90,8 @@
     `(font-lock-comment-face ((t (:foreground ,ob-aluminium4))))
     `(font-lock-comment-delimiter-face ((t (:inherit font-lock-comment-face))))
     `(font-lock-doc-face ((t (:foreground ,ob-skyblue1-2-blend)))) ;; Alternate comment face.
+    ;; This doesn't have an equivalent for GEdit.
+    `(font-lock-doc-markup-face ((t (:foreground ,ob-plum1))))
     `(font-lock-constant-face ((t (:foreground ,ob-plum1))))
     `(font-lock-function-name-face ((t (:foreground ,ob-skyblue1))))
     `(font-lock-keyword-face ((t (:foreground ,ob-white))))
