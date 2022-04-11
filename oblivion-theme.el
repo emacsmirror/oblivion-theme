@@ -18,7 +18,7 @@
   (
     (ob-butter1 "#fce94f")
     (ob-butter2 "#edd400")
-    ;; (ob-butter3 "#c4a000")
+    (ob-butter3 "#c4a000")
     (ob-chameleon1 "#8ae234")
     (ob-chameleon2 "#73d216")
     (ob-chameleon3 "#4e9a06")
@@ -257,14 +257,14 @@
     `(rst-reference ((t (:foreground ,ob-plum1))))
     `(rst-literal ((t (:inherit font-lock-string-face :background ,ob-aluminium6+16))))
     ;; titles baseline.
-    `(rst-adornment ((t (:foreground ,ob-chameleon1))))
+    `(rst-adornment ((t (:foreground ,ob-butter3))))
 
     ;; titles.
-    `(rst-level-1 ((t (:foreground ,ob-chameleon1))))
-    `(rst-level-2 ((t (:foreground ,ob-chameleon1))))
-    `(rst-level-3 ((t (:foreground ,ob-chameleon1))))
-    `(rst-level-4 ((t (:foreground ,ob-chameleon1))))
-    `(rst-level-6 ((t (:foreground ,ob-chameleon1))))
+    `(rst-level-1 ((t (:foreground ,ob-butter3))))
+    `(rst-level-2 ((t (:foreground ,ob-butter3))))
+    `(rst-level-3 ((t (:foreground ,ob-butter3))))
+    `(rst-level-4 ((t (:foreground ,ob-butter3))))
+    `(rst-level-6 ((t (:foreground ,ob-butter3))))
 
     ;; Colors for popular plugins.
 
