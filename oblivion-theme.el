@@ -266,6 +266,18 @@
     `(rst-level-4 ((t (:foreground ,ob-butter3))))
     `(rst-level-6 ((t (:foreground ,ob-butter3))))
 
+    ;; `markdown-mode`.
+    `
+    (markdown-inline-code-face
+      ((t (:inherit font-lock-string-face :background ,ob-aluminium6+16))))
+    `(markdown-header-face-1 ((t (:foreground ,ob-butter3))))
+    `(markdown-header-face-2 ((t (:foreground ,ob-butter3))))
+    `(markdown-header-face-3 ((t (:foreground ,ob-butter3))))
+    `(markdown-header-face-4 ((t (:foreground ,ob-butter3))))
+    `(markdown-header-face-5 ((t (:foreground ,ob-butter3))))
+    `(markdown-header-face-6 ((t (:foreground ,ob-butter3))))
+    `(markdown-header-rule-face ((t (:foreground ,ob-butter3))))
+
     ;; Colors for popular plugins.
 
     ;; highlight-numbers (melpa).
