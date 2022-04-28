@@ -140,7 +140,7 @@
     ;; white-space.
     `(whitespace-trailing ((nil (:background ,ob-aluminium4 :foreground nil))))
     `(whitespace-space ((nil (:background nil :foreground ,ob-aluminium4))))
-    `(whitespace-tab ((nil (:background nil :foreground ,ob-aluminium4))))
+    `(whitespace-tab ((nil (:background ,ob-aluminium6+5 :foreground ,ob-aluminium4))))
 
     ;; xref mode.
     `(xref-line-number ((t (:background ,ob-aluminium6+16 :foreground ,ob-aluminium4))))

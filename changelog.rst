@@ -3,6 +3,9 @@
 Change Log
 ##########
 
+- 2022-04-28
+  - Use a slightly brighter background color for ``whitespace-tab``.
+
 - 2022-04-11
   - Set heading colors for ``markdown-mode``.
 
