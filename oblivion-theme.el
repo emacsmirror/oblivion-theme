@@ -36,7 +36,7 @@
     (ob-chocolate3 "#8f5902")
     (ob-scarletred1 "#ef2929")
     (ob-scarletred2 "#cc0000")
-    (ob-scarletred3 "#a40000")
+    ;; (ob-scarletred3 "#a40000")
     (ob-aluminium1 "#eeeeec")
     (ob-aluminium2 "#d3d7cf")
     (ob-aluminium3 "#babdb6")
