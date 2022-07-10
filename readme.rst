@@ -9,7 +9,9 @@ Available via `melpa <https://melpa.org/#/oblivion-theme>`__.
 This theme is quite close to
 `GEdit's wonderful Oblivion theme <https://help.gnome.org/users/gedit/stable/>`__.
 
-.. figure:: https://gitlab.com/ideasman42/emacs-oblivion-theme/uploads/2af77faa0b50f4efdb2f85eb05bdf967/oblivion_screenshot.png
+.. PNG image.
+
+.. figure:: https://codeberg.org/attachments/e478072c-2191-4b85-93d9-954461dd0291
    :scale: 50 %
    :align: center
 
