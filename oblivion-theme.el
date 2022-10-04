@@ -342,6 +342,10 @@
     `(highlight-indent-guides-odd-face ((t (:background ,ob-aluminium6+16))))
     `(highlight-indent-guides-even-face ((t (:background ,ob-aluminium6+5))))
 
+    ;; hl-indent-scope (melpa).
+    `(hl-indent-scope-odd-face ((t (:background ,ob-aluminium6+16))))
+    `(hl-indent-scope-even-face ((t (:background ,ob-aluminium6+5))))
+
     ;; highlight-operators (melpa).
     `(highlight-operators-face ((t (:foreground ,ob-white))))
 

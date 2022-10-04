@@ -66,6 +66,7 @@ Other Packages:
    - ``highlight-number`` *(needed to match the original themes number color)*.
    - ``highlight-operators``.
    - ``highlight-symbol``.
+   - ``hl-indent-scope``.
    - ``ivy-mode``.
    - ``lsp-mode``.
    - ``magit-commit-mark``.
