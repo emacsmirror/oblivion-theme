@@ -14,6 +14,8 @@
 
 (deftheme oblivion "Dark color scheme based on GEdit's oblivion theme.")
 
+;; See: https://gitlab.gnome.org/GNOME/gtksourceview/-/blob/master/data/styles/oblivion.xml
+;; for the latest reference of colors.
 (let
   (
     (ob-butter1 "#fce94f")
