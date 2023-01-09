@@ -83,8 +83,8 @@
    ;; UI.
    `(button ((t (:underline t :foreground ,ob-plum1))))
    `(link ((t (:foreground ,ob-plum1))))
-   `(link-visited ((t (:foreground ,ob-plum2)))) ;; Not a GEdit color, just a little darker.
-   `(widget-field ((t (:foreground ,ob-plum2 :background ,ob-butter1)))) ;; FIXME
+   `(link-visited ((t (:foreground ,ob-plum2)))) ; Not a GEdit color, just a little darker.
+   `(widget-field ((t (:foreground ,ob-plum2 :background ,ob-butter1)))) ; FIXME
    ;; Follow other window border colors (mode-line in this case), don't blend in with the fringe.
    `(scroll-bar
      ((t
@@ -97,7 +97,7 @@
    `(font-lock-comment-delimiter-face
      ((t
        (:inherit font-lock-comment-face))))
-   `(font-lock-doc-face ((t (:foreground ,ob-skyblue1-2-blend)))) ;; Alternate comment face.
+   `(font-lock-doc-face ((t (:foreground ,ob-skyblue1-2-blend)))) ; Alternate comment face.
    ;; This doesn't have an equivalent for GEdit.
    `(font-lock-doc-markup-face ((t (:foreground ,ob-plum1))))
    `(font-lock-constant-face ((t (:foreground ,ob-plum1))))
@@ -111,7 +111,7 @@
      ((t
        (:foreground ,ob-aluminium1 :background ,ob-plum1))))
 
-   `(font-lock-negation-char-face ((t (:foreground ,ob-aluminium2)))) ;; currently no change.
+   `(font-lock-negation-char-face ((t (:foreground ,ob-aluminium2)))) ; currently no change.
    `(font-lock-regexp-grouping-construct
      ((t
        (:foreground ,ob-orange1 :weight bold))))
