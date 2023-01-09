@@ -446,5 +446,8 @@
    (file-name-as-directory (file-name-directory load-file-name))))
 
 (provide-theme 'oblivion)
-
+;; Local Variables:
+;; fill-column: 99
+;; indent-tabs-mode: nil
+;; End:
 ;;; oblivion-theme.el ends here
