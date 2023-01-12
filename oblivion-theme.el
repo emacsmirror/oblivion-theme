@@ -149,8 +149,7 @@
    ;; tab-bar-mode.
    `(tab-bar ((t (:bold t :foreground ,ob-aluminium3 :background ,ob-aluminium6+5))))
    `(tab-bar-tab
-     ((t
-       (:foreground ,ob-aluminium3 :background ,ob-aluminium6+16 :box (:line-width -1 :color ,ob-aluminium4)))))
+     ((t (:foreground ,ob-aluminium3 :background ,ob-aluminium6+16 :box (:line-width -1 :color ,ob-aluminium4)))))
    `(tab-bar-tab-inactive ((t (:bold nil :italic t :foreground ,ob-aluminium3 :background ,ob-aluminium6+16))))
 
    ;; which-func (shows in the mode-line).
