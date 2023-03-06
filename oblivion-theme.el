@@ -59,7 +59,8 @@
 
       ;; Blends, not part of GEdit theme.
       (ob-aluminium6+16 "#464f52")
-      (ob-aluminium6+5 "#3a4144"))
+      (ob-aluminium6+5 "#3a4144")
+      (ob-aluminium6-5 "#232829"))
 
   (custom-theme-set-faces
    ;; Theme name.
@@ -315,7 +316,9 @@
 
    ;; fancy-dabbrev (melpa).
    ;; Colors selected from the palette to be a balance: not too intrusive, not too faded.
-   `(fancy-dabbrev-preview-face ((t (:foreground ,ob-aluminium4 :background ,ob-aluminium6+5))))
+   `(fancy-dabbrev-preview-face ((t (:foreground ,ob-aluminium5 :background ,ob-aluminium6-5))))
+   ;; mono-complete (melpa).
+   `(mono-complete-preview-face ((t (:foreground ,ob-aluminium5 :background ,ob-aluminium6-5))))
 
    ;; neotree (melpa).
    `(neo-banner-face ((t (:foreground ,ob-chocolate2))))
