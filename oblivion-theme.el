@@ -268,6 +268,15 @@
 
    ;; Colors for popular plugins.
 
+   ;; vundo (elpa).
+   `(vundo-node ((t (:foreground ,ob-aluminium4))))
+   `(vundo-stem ((t (:foreground ,ob-aluminium4))))
+   `(vundo-saved ((t (:foreground ,ob-aluminium2))))
+   `(vundo-highlight ((t (:foreground ,ob-butter2))))
+
+   ;; anzu (melpa)
+   `(anzu-mode-line ((t (:foreground ,ob-skyblue1-2-blend))))
+
    ;; highlight-numbers (melpa).
    `(highlight-numbers-number ((t (:foreground ,ob-butter2))))
 

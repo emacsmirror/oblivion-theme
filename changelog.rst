@@ -3,6 +3,13 @@
 Change Log
 ##########
 
+- 2023-04-15
+   - Define colors for ``vundo``
+   - Define colors for ``anzu``.
+
+- 2023-03-06
+   - Define a color for ``mono-complete-preview-face``, update color for ``fancy-dabbrev-preview-face``.
+
 - 2022-10-04
    - Define a color for ``hl-indent-scope``.
 
