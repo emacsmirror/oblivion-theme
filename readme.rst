@@ -40,25 +40,25 @@ Shells:
    - ``shell-mode``.
 
 Markup Languages:
-   - ``latex-mode``
+   - ``latex-mode``.
    - ``markdown-mode``.
    - ``org-mode``
    - ``rst-mode`` (reStructuredText).
 
 Other:
    - ``diff-mode`` with refine colors for emacs 27+.
-   - ``ediff-mode``
+   - ``ediff-mode``.
 
 Bundled Packages:
    - ``eglot``.
-   - ``tab-bar-mode``
-   - ``which-func``
-   - ``white-space``
-   - ``xref``
+   - ``tab-bar-mode``.
+   - ``which-func``.
+   - ``white-space``.
+   - ``xref``.
 
 Other Packages:
-   - ``idle-highlight-mode``
-   - ``diff-hl``
+   - ``idle-highlight-mode``.
+   - ``diff-hl``.
    - ``display-line-numbers``.
    - ``fancy-dabbrev``.
    - ``gnus``.
