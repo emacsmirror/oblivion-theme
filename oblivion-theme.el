@@ -144,6 +144,11 @@
    `(whitespace-space ((nil (:foreground ,ob-aluminium4))))
    `(whitespace-tab ((nil (:background ,ob-aluminium6+5 :foreground ,ob-aluminium4))))
 
+   ;; `eglot`.
+   `(eglot-inlay-hint-face ((t (:foreground ,ob-aluminium4 :background ,ob-aluminium6-5))))
+   `(eglot-type-hint-face ((t (:foreground ,ob-aluminium4 :background ,ob-chameleon1))))
+   `(eglot-parameter-hint-face ((t (:foreground ,ob-aluminium4 :background ,ob-aluminium6-5))))
+
    ;; xref mode.
    `(xref-line-number ((t (:background ,ob-aluminium6+16 :foreground ,ob-aluminium4))))
 
