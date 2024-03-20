@@ -146,7 +146,7 @@
 
    ;; `eglot`.
    `(eglot-inlay-hint-face ((t (:foreground ,ob-aluminium4 :background ,ob-aluminium6-5))))
-   `(eglot-type-hint-face ((t (:foreground ,ob-aluminium4 :background ,ob-chameleon1))))
+   `(eglot-type-hint-face ((t (:foreground ,ob-chameleon1 :background ,ob-aluminium6-5))))
    `(eglot-parameter-hint-face ((t (:foreground ,ob-aluminium4 :background ,ob-aluminium6-5))))
 
    ;; xref mode.
