@@ -42,7 +42,7 @@ Shells:
 Markup Languages:
    - ``latex-mode``.
    - ``markdown-mode``.
-   - ``org-mode``
+   - ``org-mode``.
    - ``rst-mode`` (reStructuredText).
 
 Other:
@@ -53,7 +53,7 @@ Bundled Packages:
    - ``eglot``.
    - ``tab-bar-mode``.
    - ``which-func``.
-   - ``white-space``.
+   - ``whitespace``.
    - ``xref``.
 
 Other Packages:
@@ -64,7 +64,7 @@ Other Packages:
    - ``gnus``.
    - ``helm-mode``.
    - ``highlight-indent-guides``.
-   - ``highlight-number`` *(needed to match the original themes number color)*.
+   - ``highlight-number`` *(needed to match the original theme's number color)*.
    - ``highlight-operators``.
    - ``highlight-symbol``.
    - ``hl-indent-scope``.
